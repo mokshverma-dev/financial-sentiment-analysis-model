@@ -1,7 +1,7 @@
 # Hi, I'm Moksh Verma! 👋
 
 
-# Data Analytics Project : "Financial Sentiment Analysis Model"
+# Data Analytics Project : "Financial Sentiment Analysis"
 
 
 # What is the Purpose of this Project?
@@ -14,26 +14,15 @@ Financial Sentiment Analysis is widely used in Finance Industry as well as by **
 
 # ML Model Code
 
-[Linear Regression Model.ipynb](https://github.com/mokshverma-dev/linear-regression-diamond-price-prediction/blob/main/Machine%20Learning%20Model%20Code.ipynb)
-
-[Random Forest Classification Model.ipynb](https://github.com/mokshverma-dev/linear-regression-diamond-price-prediction/blob/main/ML%20Model%20(Random%20Forest%20Classification).ipynb)
+[Code.ipynb](https://github.com/mokshverma-dev/financial-sentiment-analysis-model/blob/main/Code.ipynb)
 
 # Dataset for Training Model
 
-[M6_T2_V1_Diamonds.csv](https://github.com/mokshverma-dev/linear-regression-diamond-price-prediction/blob/main/M6_T2_V1_Diamonds.csv)
-
-# PowerBI Dashboard File
-
-[Diamonds Data Visualization.pbix](https://github.com/mokshverma-dev/linear-regression-diamond-price-prediction/blob/main/Diamonds%20Data%20Visualization.pbix)
-
-Diamond Data Dashboard Screenshot
-![Diamond Data Dashboard](https://github.com/mokshverma-dev/linear-regression-diamond-price-prediction/blob/main/PowerBI%20Dashboard%20of%20Daimond%20Data.png)
+[data.csv](https://github.com/mokshverma-dev/financial-sentiment-analysis-model/blob/main/data.csv)
 
 ## Tech Stack
 
 **Code Editor:**   Jupyter Notebook
-
-**Dashboarding Tool:**   Microsoft PowerBI
 
 **Language:**   Python
 
@@ -44,7 +33,7 @@ Diamond Data Dashboard Screenshot
 
 Here are some related projects
 
-[Credit Card Analytical Report using Power BI](https://github.com/mokshverma-dev/Credit-Card-Analytical-Resport-using-Power-BI/tree/main)
+[Big Mart Data Sales Prediction by using XGBoost](https://github.com/mokshverma-dev/Big-mart-data-sales-prediction-by-using-XGBoost)
 
 [Customer Churn Analytics & Prediction](https://github.com/mokshverma-dev/customer-churn-analysis-and-prediction)
 
